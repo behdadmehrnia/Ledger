@@ -2,7 +2,7 @@
 
 **Nothing enters the answer without a receipt.**
 
-[![Tests](https://github.com/BMDarkLight/Ledger/actions/workflows/tests.yml/badge.svg)](https://github.com/BMDarkLight/Ledger/actions/workflows/tests.yml) [![Lint](https://github.com/BMDarkLight/Ledger/actions/workflows/lint.yml/badge.svg)](https://github.com/BMDarkLight/Ledger/actions/workflows/lint.yml) [![Eval](https://github.com/BMDarkLight/Ledger/actions/workflows/eval.yml/badge.svg)](https://github.com/BMDarkLight/Ledger/actions/workflows/eval.yml) [![Python 3.10+](https://img.shields.io/badge/Python-3.10%2B-blue.svg)](https://www.python.org) [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
+[![Tests](https://github.com/behdadmehrnia/Ledger/actions/workflows/tests.yml/badge.svg)](https://github.com/behdadmehrnia/Ledger/actions/workflows/tests.yml) [![Lint](https://github.com/behdadmehrnia/Ledger/actions/workflows/lint.yml/badge.svg)](https://github.com/behdadmehrnia/Ledger/actions/workflows/lint.yml) [![Eval](https://github.com/behdadmehrnia/Ledger/actions/workflows/eval.yml/badge.svg)](https://github.com/behdadmehrnia/Ledger/actions/workflows/eval.yml) [![Python 3.10+](https://img.shields.io/badge/Python-3.10%2B-blue.svg)](https://www.python.org) [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 
 ---
 
@@ -142,7 +142,7 @@ Results are written to `eval/scorecard.md` and committed by CI, so the README ba
 ### Install and run
 
 ```bash
-git clone https://github.com/BMDarkLight/Ledger.git
+git clone https://github.com/behdadmehrnia/Ledger.git
 cd Ledger
 python -m venv .venv && source .venv/bin/activate
 pip install -r requirements.txt
